@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'https://projetoapirest.herokuapp.com/';
-$config['base_url'] = 'https://apirest-poo.herokuapp.com/';
+$config['base_url'] = 'https://letycia-apirest-poo.herokuapp.com/';
 //$config['base_url'] = 'https://localhost/apirest_poo/';
 
 /*
